@@ -1,5 +1,5 @@
-#Aplicacion de clase (recordatorio de medicamentos)
-###Integrantes:
+# Aplicacion de clase (recordatorio de medicamentos)
+### Integrantes:
 -Caceres Pari Angel
 -Garcia Apaza Alan Jorge
 
