@@ -1,8 +1,8 @@
 # Aplicacion de clase (recordatorio de medicamentos)
-### Integrantes:
--Caceres Pari Angel
+## Integrantes:
+### -Caceres Pari Angel
 
--Garcia Apaza Alan Jorge
+### -Garcia Apaza Alan Jorge
 
 ## Descripcion
 Recordatorio de Medicamentos es una aplicación Android desarrollada en Kotlin con Jetpack Compose, que permite registrar y gestionar medicamentos de forma sencilla.
